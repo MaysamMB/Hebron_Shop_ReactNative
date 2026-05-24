@@ -7,7 +7,6 @@ A modern mobile shopping app built with React Native and Expo. Features a produc
 ## Screenshots
 ## Home Screen
 ![HomeScreen](./ScreenShot/HomeScreen.png)
-
 ## Cart Screen
 ![CartScreen](./ScreenShot/CartScreen.png)
 
@@ -85,7 +84,7 @@ A modern mobile shopping app built with React Native and Expo. Features a produc
 
 ---
 
-## 🧠 How It Works
+##  How It Works
 
 ### Context (`CartContext.jsx`)
 Defines the shape of the cart context with default values — `cartItems`, `addToCart`, `removeFromCart`, `clearCart`, `cartCount`, and `totalPrice`.
@@ -104,7 +103,7 @@ Reusable card component that receives a `product` object and an `onAddToCart` ca
 
 ---
 
-## 📦 Dependencies
+##  Dependencies
 
 | Package | Purpose |
 |---|---|
@@ -116,7 +115,7 @@ Reusable card component that receives a `product` object and an `onAddToCart` ca
 
 ---
 
-## ⚠️ Notes
+##  Notes
 
 - The uploaded files have mixed names (`App.js` used for `DetailsScreen`, `Card.jsx` used for `App.js`). Rename them to match the structure above before pushing.
 - Product data is hardcoded in `HomeScreen` — can be moved to a separate `data/products.js` file for cleaner code.
@@ -124,7 +123,7 @@ Reusable card component that receives a `product` object and an `onAddToCart` ca
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Maysam Bradiya**  
 Junior Frontend & Mobile Developer  
@@ -132,6 +131,6 @@ Junior Frontend & Mobile Developer
 
 ---
 
-## 📄 License
+##  License
 
 This project is open source and available under the [MIT License](LICENSE).
